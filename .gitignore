@@ -1,0 +1,15 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Build output
+target/
+
+# macOS
+.DS_Store
+
+# Downloaded archives
+*.zip
+
+# Local secrets (for later, e.g. LLM keys)
+.env
